@@ -1,0 +1,6 @@
+{
+    "username": "admin",
+    "password": "12345",
+    "projectname": "snippetapplication",
+    "jwtsecret": "oreo"
+}
